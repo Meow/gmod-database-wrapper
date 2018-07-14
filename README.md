@@ -3,7 +3,8 @@ Garry's Mod Database Wrapper
 
 A simple, easy-to-use database wrapper for Garry's Mod, supporting SQLite and mysqloo.
 
-== Usage
+Usage
+==================
 
 First, include the wrapper into your project. It's done the regular Lua way:
 ```lua
@@ -63,4 +64,5 @@ local query = Database:select('my_table')
 query:execute()
 ```
 
-== To be continued...
+To be continued...
+==================
